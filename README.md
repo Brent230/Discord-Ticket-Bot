@@ -12,4 +12,4 @@ Make sure the config contains your bot token and run the bot by typing **node in
 *[Node.js](https://nodejs.org/en//) - Serverside Javascript Libary
 
 ## Author
-*[Kistaf] - (https://github.com/Kistaf)
+*[Kistaf](https://github.com/Kistaf)
